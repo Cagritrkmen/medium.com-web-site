@@ -1,0 +1,17 @@
+body{
+
+    font-family: 'Abhaya Libre', serif;
+font-family: 'Roboto', sans-serif;
+
+}
+.backimg{
+    background-color: #FFC017; 
+    border-bottom: solid 1px #242424;
+    background-image:url(/images/pngfind.com-shadow-png-2751239.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 30rem;
+}
+.fs-6{
+    font-size: 13px !important;
+}
